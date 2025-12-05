@@ -11,6 +11,6 @@ int main(){
     p--;
 
     for(p=a+9;p>=a;p--){
-        printf("%d",*p);
+        printf("%2d",*p);
     }
 }
